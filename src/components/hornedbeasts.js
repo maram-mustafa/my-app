@@ -20,7 +20,7 @@ class Hornedbeasts extends React.Component {
   render() {
     return (
       <Col>
-        <Card>
+        <Card bg="dark" text="light">
           <Card.Img
             variant="top"
             onClick={this.incrementNumOfVote}
