@@ -1,5 +1,5 @@
 import React from "react";
-import Hornedbeasts from "./hornedbeasts";
+import Hornedbeasts from "./Hornedbeasts";
 import data from "./data.json";
 import Row from "react-bootstrap/Row";
 import { Container } from "react-bootstrap";
