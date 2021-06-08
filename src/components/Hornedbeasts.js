@@ -28,9 +28,7 @@ class Hornedbeasts extends React.Component {
           />
           <Card.Body>
             <Card.Title>{this.props.title}</Card.Title>
-            <Card.Text>
-             &#128147; = : {this.state.numOfVote}
-            </Card.Text>
+            <Card.Text>&#128147; = : {this.state.numOfVote}</Card.Text>
             <Card.Text>{this.props.description}</Card.Text>
           </Card.Body>
         </Card>
